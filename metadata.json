@@ -1,0 +1,6 @@
+{
+  "name": "Iavenda - نظام جرد مستودع الأحذية",
+  "description": "نظام إدارة وجرد مستودع شركة Iavenda للأحذية مع تتبع الأكواد، الألوان، القياسات 36-43، وإدارة المخزون بسهولة وسلاسة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

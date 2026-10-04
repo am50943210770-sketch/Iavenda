@@ -1,0 +1,48 @@
+{
+  "shoes": [],
+  "deductions": [
+    {
+      "id": "ded-1790808151547-gw0x",
+      "shoeId": "iav-1790807983071",
+      "shoeCode": "J",
+      "shoeName": "Bb",
+      "colorName": "جميع الألوان (1)",
+      "size": "حذف القطعة بالكامل",
+      "quantityDecreased": 31,
+      "adminId": "احمد",
+      "adminName": "احمد (موظف)",
+      "timestamp": 1790808151547,
+      "actionType": "item_delete",
+      "actionLabel": "سحب / حذف قطعة كاملة",
+      "isReadBySupervisor": false
+    },
+    {
+      "id": "ded-1790807996606-6bry",
+      "shoeId": "iav-1790807983071",
+      "shoeCode": "J",
+      "colorName": "أبيض",
+      "size": 36,
+      "quantityDecreased": 1,
+      "adminId": "احمد",
+      "adminName": "احمد (موظف)",
+      "timestamp": 1790807996606,
+      "actionType": "pair_deduct",
+      "actionLabel": "سحب قطعة (زوج واحد)",
+      "isReadBySupervisor": false
+    }
+  ],
+  "orders": [],
+  "securityAlerts": [],
+  "loginLogs": [
+    {
+      "id": "login-1790809860742-hiq7",
+      "adminId": "احمد",
+      "adminName": "احمد (موظف)",
+      "roleTitle": "موظف",
+      "isSupervisor": false,
+      "timestamp": 1790809860742,
+      "isReadBySupervisor": false
+    }
+  ],
+  "updatedAt": 1790809893348
+}
